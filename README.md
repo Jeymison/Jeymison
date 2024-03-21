@@ -19,15 +19,6 @@ Estou em transição de carreira, buscando minha primeira oportunidade como Dese
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 
-![Snake animation](https://github.com/Jeymison/Jeymison/blob/output/github-contribution-grid-snake.svg)
-
-
-<div>
-<a href="https://github.com/Jeymison">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeymison&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeymison&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 </br>
 
 📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/jeymisonmenezes/) ou pelo [Email](mailto:jeymison@gmail.com)  e pode já conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
