@@ -1,23 +1,19 @@
-### Olá sou o Jeymison, seja bem vindo!
+### Olá, eu sou o Jeymison! 
 
-<!--
-**Jeymison/Jeymison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou em transição de carreira, buscando minha primeira oportunidade como Desenvolvedor, atualmente estou em formação em Análise e Desenvolvimento de Sistemas e me profissionalizando como Desenvolvedor Full Stack Python e Desenvolvedor Mobile iOS.
 
-Here are some ideas to get you started:
-
-### Formação
-Analise e Desenvolvimento de Sistema - Universidade Anhembi Morumbi
-
-### Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original-wordmark.svg" width="40" height="40" />
+### Estou Aprendendo
+- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg) Python
+- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript
+- ![Swift](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg) Swift
 
 ### Conhecimentos
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"  width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
+- ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg) React  
+- ![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg) Vue.js
+- ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg) Node.js
+- ![npm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg) npm
+
+Fique à vontade para explorar meus projetos e entre em contato se tiver alguma pergunta ou sugestão! 🚀
 
 
           
