@@ -2,7 +2,7 @@
 
 Seja bem vindo!
 
-Estou em transição de carreira, buscando minha primeira oportunidade como Desenvolvedor, caso tenha uma oportunidade ai contigo bora ajudar o colega aqui :) . Atualmente estou em formação em Análise e Desenvolvimento de Sistemas e me profissionalizando como Desenvolvedor Full Stack Python e Desenvolvedor Mobile iOS.
+Estou em transição de carreira, busco oportunidade de Desenvolvedor,  Atualmente estou em formação em Análise e Desenvolvimento de Sistemas e me profissionalizando como Desenvolvedor Full Stack Python e Desenvolvedor Mobile iOS.
 
 ### Estou Aprendendo:
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title = "Python" width="40" height="40"/></code>
