@@ -2,13 +2,12 @@
 
 Seja bem vindo!
 
-Estou em transição de carreira, busco uma oportunidade de Desenvolvedor,  Atualmente estou em formação em Análise e Desenvolvimento de Sistemas e me profissionalizando como Desenvolvedor Full Stack Python e Desenvolvedor Mobile iOS.
+Desenvolvedor Full Stack Python em formação, também graduando em Análise e Desenvolvimento de Sistemas.
 
-### Estou Aprendendo:
+### Learning:
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title = "Python" width="40" height="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" title = "Swift" width="40" height="40" /></code>
 
-### Tenho conhecimento:
+### Hard skills:
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title = "REACT"/></code>
